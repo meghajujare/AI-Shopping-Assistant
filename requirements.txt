@@ -14,4 +14,8 @@ loguru==0.7.2
 pandas==2.2.2
 faker==37.1.0
 
+<<<<<<< HEAD
 torch
+=======
+torch
+>>>>>>> ea7b54e (Fix deployment dependencies)
