@@ -1,0 +1,1735 @@
+2026-05-05 00:28:16,531 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 00:28:16,531 - ERROR - ai-shopping - Failed to load dataset: Expecting value: line 1 column 1 (char 0)
+2026-05-05 00:29:58,688 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 00:29:58,716 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 00:29:58,716 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 12:00:06,220 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 12:00:06,243 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 12:00:06,243 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 12:07:58,414 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 12:07:58,414 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 12:07:58,414 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 12:13:56,297 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 12:13:56,297 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 12:13:56,297 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 12:15:43,488 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 12:15:43,488 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 12:15:43,488 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 12:15:47,028 - INFO - ai-shopping - Pipeline started | query=learning toys for brain development, age=2, budget=2000, category=toys
+2026-05-05 12:15:47,028 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 12:15:47,068 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 12:15:47,068 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 12:15:48,823 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 12:15:48,823 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 12:15:49,213 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-2-latest'}
+2026-05-05 12:15:49,517 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-2-latest'}
+2026-05-05 12:15:49,743 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-2-latest'}
+2026-05-05 12:15:49,759 - ERROR - ai-shopping - All LLM retries failed
+2026-05-05 12:22:58,958 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 12:22:58,960 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 12:22:58,960 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 12:23:02,488 - INFO - ai-shopping - Pipeline started | query=learning toys for brain development, age=2, budget=2000, category=toys
+2026-05-05 12:23:02,488 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 12:23:02,488 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 12:23:02,488 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 12:23:02,488 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 12:23:02,488 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 12:23:02,488 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 12:23:02,535 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 12:23:02,535 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 12:23:02,844 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-2-latest'}
+2026-05-05 12:23:03,116 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-2-latest'}
+2026-05-05 12:23:03,346 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-2-latest'}
+2026-05-05 12:23:03,346 - ERROR - ai-shopping - All LLM retries failed
+2026-05-05 12:34:44,300 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 12:34:44,301 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 12:34:44,301 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 12:34:47,838 - INFO - ai-shopping - Pipeline started | query=learning toys for brain development, age=2, budget=2000, category=toys
+2026-05-05 12:34:47,838 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 12:34:47,838 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 12:34:47,838 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 12:34:47,838 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 12:34:47,838 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 12:34:47,838 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 12:34:47,882 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 12:34:47,882 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 12:34:48,264 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-2-latest'}
+2026-05-05 12:34:48,519 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-2-latest'}
+2026-05-05 12:34:48,752 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-2-latest'}
+2026-05-05 12:34:48,752 - ERROR - ai-shopping - All LLM retries failed
+2026-05-05 12:37:52,006 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 12:37:52,006 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 12:37:52,006 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 12:37:56,105 - INFO - ai-shopping - Pipeline started | query=learning toys for brain development, age=2, budget=2000, category=toys
+2026-05-05 12:37:56,105 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 12:37:56,106 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 12:37:56,106 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 12:37:56,106 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 12:37:56,106 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 12:37:56,106 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 12:37:56,236 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 12:37:56,236 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 12:37:56,575 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: openai/gpt-oss-20b'}
+2026-05-05 12:37:56,812 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: openai/gpt-oss-20b'}
+2026-05-05 12:37:57,066 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: openai/gpt-oss-20b'}
+2026-05-05 12:37:57,066 - ERROR - ai-shopping - All LLM retries failed
+2026-05-05 12:39:05,972 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 12:39:05,972 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 12:39:05,972 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 12:39:10,657 - INFO - ai-shopping - Pipeline started | query=learning toys for brain development, age=2, budget=2000, category=toys
+2026-05-05 12:39:10,658 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 12:39:10,658 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 12:39:10,658 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 12:39:10,658 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 12:39:10,658 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 12:39:10,658 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 12:39:10,757 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 12:39:10,758 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 12:39:11,114 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-1'}
+2026-05-05 12:39:11,400 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-1'}
+2026-05-05 12:39:11,641 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-1'}
+2026-05-05 12:39:11,641 - ERROR - ai-shopping - All LLM retries failed
+2026-05-05 12:48:34,269 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 12:48:34,269 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 12:48:34,269 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 12:48:37,921 - INFO - ai-shopping - Pipeline started | query=learning toys for brain development, age=2, budget=2000, category=toys
+2026-05-05 12:48:37,921 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 12:48:37,921 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 12:48:37,921 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 12:48:37,921 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 12:48:37,921 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 12:48:37,921 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 12:48:37,977 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 12:48:37,979 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 12:48:38,307 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-1'}
+2026-05-05 12:48:38,611 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-1'}
+2026-05-05 12:48:38,908 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-1'}
+2026-05-05 12:48:38,908 - ERROR - ai-shopping - All LLM retries failed
+2026-05-05 12:49:55,160 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 12:49:55,160 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 12:49:55,161 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 12:49:58,916 - INFO - ai-shopping - Pipeline started | query=learning toys for brain development, age=2, budget=2000, category=toys
+2026-05-05 12:49:58,916 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 12:49:58,916 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 12:49:58,916 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 12:49:58,916 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 12:49:58,916 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 12:49:58,916 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 12:49:58,978 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 12:49:58,978 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 12:49:59,318 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: groq/compound-mini'}
+2026-05-05 12:49:59,625 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: groq/compound-mini'}
+2026-05-05 12:49:59,863 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: groq/compound-mini'}
+2026-05-05 12:49:59,863 - ERROR - ai-shopping - All LLM retries failed
+2026-05-05 12:53:56,908 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 12:53:56,908 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 12:53:56,908 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 12:54:00,638 - INFO - ai-shopping - Pipeline started | query=learning toys for brain development, age=2, budget=2000, category=toys
+2026-05-05 12:54:00,638 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 12:54:00,638 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 12:54:00,638 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 12:54:00,638 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 12:54:00,638 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 12:54:00,638 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 12:54:00,716 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 12:54:00,716 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 12:54:01,260 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: groq/compound-mini'}
+2026-05-05 12:54:01,558 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: groq/compound-mini'}
+2026-05-05 12:54:01,860 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: groq/compound-mini'}
+2026-05-05 12:54:01,860 - ERROR - ai-shopping - All LLM retries failed
+2026-05-05 12:54:41,722 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 12:54:41,722 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 12:54:41,722 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 12:54:45,516 - INFO - ai-shopping - Pipeline started | query=learning toys for brain development, age=2, budget=2000, category=toys
+2026-05-05 12:54:45,516 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 12:54:45,516 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 12:54:45,516 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 12:54:45,516 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 12:54:45,524 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 12:54:45,524 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 12:54:45,639 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 12:54:45,639 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 12:54:45,964 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-1'}
+2026-05-05 12:54:46,263 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-1'}
+2026-05-05 12:54:46,554 - ERROR - ai-shopping - LLM attempt failed: Error code: 400 - {'code': 'Client specified an invalid argument', 'error': 'Model not found: grok-1'}
+2026-05-05 12:54:46,554 - ERROR - ai-shopping - All LLM retries failed
+2026-05-05 17:49:16,240 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 17:49:16,256 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 17:49:16,256 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 17:49:23,833 - INFO - ai-shopping - Pipeline started | query=learning toys for brain development, age=2, budget=2000, category=toys
+2026-05-05 17:49:23,833 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 17:49:23,835 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 17:49:23,835 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 17:49:23,835 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 17:49:23,835 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 17:49:23,835 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 17:49:26,528 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 17:49:26,530 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 17:49:53,581 - ERROR - ai-shopping - LLM attempt failed: Expecting ',' delimiter: line 15 column 6 (char 320)
+2026-05-05 17:50:15,072 - INFO - ai-shopping - LLM success on attempt 2
+2026-05-05 17:57:59,260 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 17:57:59,260 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 17:57:59,260 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 17:58:02,762 - INFO - ai-shopping - Pipeline started | query=learning toys for brain development, age=2, budget=2000, category=toys
+2026-05-05 17:58:02,762 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 17:58:02,762 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 17:58:02,762 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 17:58:02,762 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 17:58:02,762 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 17:58:02,762 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 17:58:02,838 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 17:58:02,838 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 17:58:41,960 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-05 18:28:28,514 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 18:28:28,514 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 18:28:28,514 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 18:28:32,573 - INFO - ai-shopping - Pipeline started | query=learning toys for brain development, age=2, budget=2000, category=toys
+2026-05-05 18:28:32,573 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 18:28:32,573 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 18:28:32,573 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 18:28:32,573 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 18:28:32,573 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 18:28:32,573 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 18:28:32,890 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 18:28:32,890 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 18:29:06,206 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-05 19:32:16,246 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-05 19:32:16,357 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-05 19:32:16,357 - INFO - ai-shopping - Loading embedding model...
+2026-05-05 19:32:58,256 - INFO - ai-shopping - Pipeline started | query=toys for brain developement , age=2, budget=2000, category=toys
+2026-05-05 19:32:58,256 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 19:32:58,257 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 19:32:58,257 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 19:32:58,258 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 19:32:58,258 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 19:32:58,259 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 19:32:58,385 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 19:32:58,385 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 19:33:39,044 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-05 19:36:58,282 - INFO - ai-shopping - Pipeline started | query=bottle , age=2, budget=2000, category=feeding
+2026-05-05 19:36:58,282 - INFO - ai-shopping - Pipeline started | query=bottle , age=2, budget=2000, category=feeding
+2026-05-05 19:36:58,283 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=feeding
+2026-05-05 19:36:58,283 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=feeding
+2026-05-05 19:36:58,284 - INFO - ai-shopping - Category filter: 5 -> 1
+2026-05-05 19:36:58,284 - INFO - ai-shopping - Category filter: 5 -> 1
+2026-05-05 19:36:58,284 - INFO - ai-shopping - Budget filter: 1 -> 1
+2026-05-05 19:36:58,284 - INFO - ai-shopping - Budget filter: 1 -> 1
+2026-05-05 19:36:58,284 - INFO - ai-shopping - Age filter: 1 -> 1
+2026-05-05 19:36:58,284 - INFO - ai-shopping - Age filter: 1 -> 1
+2026-05-05 19:36:58,284 - INFO - ai-shopping - Final filtered count: 1
+2026-05-05 19:36:58,284 - INFO - ai-shopping - Final filtered count: 1
+2026-05-05 19:36:58,285 - INFO - ai-shopping - Retrieval started on 1 products
+2026-05-05 19:36:58,285 - INFO - ai-shopping - Retrieval started on 1 products
+2026-05-05 19:36:58,444 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 19:36:58,444 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 19:36:58,444 - INFO - ai-shopping - Retrieved products: ['Baby Feeding Bottle Set']
+2026-05-05 19:36:58,444 - INFO - ai-shopping - Retrieved products: ['Baby Feeding Bottle Set']
+2026-05-05 19:37:09,646 - INFO - ai-shopping - Pipeline started | query=bottle , age=2, budget=2000, category=feeding
+2026-05-05 19:37:09,646 - INFO - ai-shopping - Pipeline started | query=bottle , age=2, budget=2000, category=feeding
+2026-05-05 19:37:09,647 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=feeding
+2026-05-05 19:37:09,647 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=feeding
+2026-05-05 19:37:09,648 - INFO - ai-shopping - Category filter: 5 -> 1
+2026-05-05 19:37:09,648 - INFO - ai-shopping - Category filter: 5 -> 1
+2026-05-05 19:37:09,660 - INFO - ai-shopping - Budget filter: 1 -> 1
+2026-05-05 19:37:09,660 - INFO - ai-shopping - Budget filter: 1 -> 1
+2026-05-05 19:37:09,660 - INFO - ai-shopping - Age filter: 1 -> 1
+2026-05-05 19:37:09,660 - INFO - ai-shopping - Age filter: 1 -> 1
+2026-05-05 19:37:09,660 - INFO - ai-shopping - Final filtered count: 1
+2026-05-05 19:37:09,660 - INFO - ai-shopping - Final filtered count: 1
+2026-05-05 19:37:09,660 - INFO - ai-shopping - Retrieval started on 1 products
+2026-05-05 19:37:09,660 - INFO - ai-shopping - Retrieval started on 1 products
+2026-05-05 19:37:09,805 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 19:37:09,805 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 19:37:09,805 - INFO - ai-shopping - Retrieved products: ['Baby Feeding Bottle Set']
+2026-05-05 19:37:09,805 - INFO - ai-shopping - Retrieved products: ['Baby Feeding Bottle Set']
+2026-05-05 19:37:10,292 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-05 19:37:10,292 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-05 19:37:19,716 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-05 19:37:19,716 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-05 19:37:42,271 - INFO - ai-shopping - Pipeline started | query=educational toys, age=2, budget=2000, category=toys
+2026-05-05 19:37:42,271 - INFO - ai-shopping - Pipeline started | query=educational toys, age=2, budget=2000, category=toys
+2026-05-05 19:37:42,273 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 19:37:42,273 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 19:37:42,274 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 19:37:42,274 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 19:37:42,275 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 19:37:42,275 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 19:37:42,275 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 19:37:42,275 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 19:37:42,275 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 19:37:42,275 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 19:37:42,276 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 19:37:42,276 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 19:37:42,462 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 19:37:42,462 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 19:37:42,462 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 19:37:42,462 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 19:38:05,603 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-05 19:38:05,603 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-05 19:40:01,231 - INFO - ai-shopping - Pipeline started | query=strollers, age=2, budget=2000, category=stroller
+2026-05-05 19:40:01,231 - INFO - ai-shopping - Pipeline started | query=strollers, age=2, budget=2000, category=stroller
+2026-05-05 19:40:01,231 - INFO - ai-shopping - Pipeline started | query=strollers, age=2, budget=2000, category=stroller
+2026-05-05 19:40:01,231 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=stroller
+2026-05-05 19:40:01,231 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=stroller
+2026-05-05 19:40:01,231 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=stroller
+2026-05-05 19:40:01,232 - INFO - ai-shopping - Category filter: 5 -> 1
+2026-05-05 19:40:01,232 - INFO - ai-shopping - Category filter: 5 -> 1
+2026-05-05 19:40:01,232 - INFO - ai-shopping - Category filter: 5 -> 1
+2026-05-05 19:40:01,234 - INFO - ai-shopping - Budget filter: 1 -> 0
+2026-05-05 19:40:01,234 - INFO - ai-shopping - Budget filter: 1 -> 0
+2026-05-05 19:40:01,234 - INFO - ai-shopping - Budget filter: 1 -> 0
+2026-05-05 19:40:01,235 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-05 19:40:01,235 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-05 19:40:01,235 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-05 19:40:01,236 - INFO - ai-shopping - Final filtered count: 0
+2026-05-05 19:40:01,236 - INFO - ai-shopping - Final filtered count: 0
+2026-05-05 19:40:01,236 - INFO - ai-shopping - Final filtered count: 0
+2026-05-05 19:40:01,236 - WARNING - ai-shopping - No products after filtering
+2026-05-05 19:40:01,236 - WARNING - ai-shopping - No products after filtering
+2026-05-05 19:40:01,236 - WARNING - ai-shopping - No products after filtering
+2026-05-05 19:40:13,333 - INFO - ai-shopping - Pipeline started | query=clothes, age=2, budget=2000, category=care
+2026-05-05 19:40:13,333 - INFO - ai-shopping - Pipeline started | query=clothes, age=2, budget=2000, category=care
+2026-05-05 19:40:13,333 - INFO - ai-shopping - Pipeline started | query=clothes, age=2, budget=2000, category=care
+2026-05-05 19:40:13,334 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=care
+2026-05-05 19:40:13,334 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=care
+2026-05-05 19:40:13,334 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=care
+2026-05-05 19:40:13,335 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-05 19:40:13,335 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-05 19:40:13,335 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-05 19:40:13,336 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-05 19:40:13,336 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-05 19:40:13,336 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-05 19:40:13,337 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-05 19:40:13,337 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-05 19:40:13,337 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-05 19:40:13,339 - INFO - ai-shopping - Final filtered count: 0
+2026-05-05 19:40:13,339 - INFO - ai-shopping - Final filtered count: 0
+2026-05-05 19:40:13,339 - INFO - ai-shopping - Final filtered count: 0
+2026-05-05 19:40:13,339 - WARNING - ai-shopping - No products after filtering
+2026-05-05 19:40:13,339 - WARNING - ai-shopping - No products after filtering
+2026-05-05 19:40:13,339 - WARNING - ai-shopping - No products after filtering
+2026-05-05 19:40:15,078 - INFO - ai-shopping - Pipeline started | query=clothes, age=2, budget=2000, category=care
+2026-05-05 19:40:15,078 - INFO - ai-shopping - Pipeline started | query=clothes, age=2, budget=2000, category=care
+2026-05-05 19:40:15,078 - INFO - ai-shopping - Pipeline started | query=clothes, age=2, budget=2000, category=care
+2026-05-05 19:40:15,081 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=care
+2026-05-05 19:40:15,081 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=care
+2026-05-05 19:40:15,081 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=care
+2026-05-05 19:40:15,081 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-05 19:40:15,081 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-05 19:40:15,081 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-05 19:40:15,082 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-05 19:40:15,082 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-05 19:40:15,082 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-05 19:40:15,082 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-05 19:40:15,082 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-05 19:40:15,082 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-05 19:40:15,083 - INFO - ai-shopping - Final filtered count: 0
+2026-05-05 19:40:15,083 - INFO - ai-shopping - Final filtered count: 0
+2026-05-05 19:40:15,083 - INFO - ai-shopping - Final filtered count: 0
+2026-05-05 19:40:15,084 - WARNING - ai-shopping - No products after filtering
+2026-05-05 19:40:15,084 - WARNING - ai-shopping - No products after filtering
+2026-05-05 19:40:15,084 - WARNING - ai-shopping - No products after filtering
+2026-05-05 19:40:26,081 - INFO - ai-shopping - Pipeline started | query=educational toys, age=2, budget=2000, category=toys
+2026-05-05 19:40:26,081 - INFO - ai-shopping - Pipeline started | query=educational toys, age=2, budget=2000, category=toys
+2026-05-05 19:40:26,081 - INFO - ai-shopping - Pipeline started | query=educational toys, age=2, budget=2000, category=toys
+2026-05-05 19:40:26,082 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 19:40:26,082 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 19:40:26,082 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-05 19:40:26,082 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 19:40:26,082 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 19:40:26,082 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-05 19:40:26,083 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 19:40:26,083 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 19:40:26,083 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-05 19:40:26,083 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 19:40:26,083 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 19:40:26,083 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-05 19:40:26,084 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 19:40:26,084 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 19:40:26,084 - INFO - ai-shopping - Final filtered count: 3
+2026-05-05 19:40:26,084 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 19:40:26,084 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 19:40:26,084 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-05 19:40:26,175 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 19:40:26,175 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 19:40:26,175 - INFO - ai-shopping - Top-5 retrieved
+2026-05-05 19:40:26,175 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 19:40:26,175 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 19:40:26,175 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-05 19:40:48,394 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-05 19:40:48,394 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-05 19:40:48,394 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:09:20,011 - INFO - ai-shopping - Loading products from D:\Projects\AI Shopping Assistant\data\products.json
+2026-05-06 16:09:20,095 - INFO - ai-shopping - Loaded 5 valid products
+2026-05-06 16:09:20,095 - INFO - ai-shopping - Loading embedding model...
+2026-05-06 16:23:33,567 - INFO - ai-shopping - Pipeline started | query=educational TOYS, age=2, budget=2000, category=toys
+2026-05-06 16:23:33,567 - INFO - ai-shopping - Pipeline started | query=educational TOYS, age=2, budget=2000, category=toys
+2026-05-06 16:23:33,569 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-06 16:23:33,569 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-06 16:23:33,569 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:23:33,569 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:23:33,569 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:23:33,569 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:23:33,570 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-06 16:23:33,570 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-06 16:23:33,570 - INFO - ai-shopping - Final filtered count: 3
+2026-05-06 16:23:33,570 - INFO - ai-shopping - Final filtered count: 3
+2026-05-06 16:23:33,570 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-06 16:23:33,570 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-06 16:23:34,771 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:23:34,771 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:23:34,771 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-06 16:23:34,771 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-06 16:24:11,826 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:24:11,826 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:24:15,566 - INFO - ai-shopping - Pipeline started | query=educational toys, age=2, budget=2000, category=toys
+2026-05-06 16:24:15,566 - INFO - ai-shopping - Pipeline started | query=educational toys, age=2, budget=2000, category=toys
+2026-05-06 16:24:15,566 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-06 16:24:15,566 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-06 16:24:15,567 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:24:15,567 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:24:15,567 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:24:15,567 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:24:15,568 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-06 16:24:15,568 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-06 16:24:15,569 - INFO - ai-shopping - Final filtered count: 3
+2026-05-06 16:24:15,569 - INFO - ai-shopping - Final filtered count: 3
+2026-05-06 16:24:15,569 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-06 16:24:15,569 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-06 16:24:15,754 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:24:15,754 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:24:15,754 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-06 16:24:15,754 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-06 16:24:44,964 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:24:44,964 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:42:24,570 - INFO - ai-shopping - Pipeline started | query=educational toys, age=2, budget=2000, category=toys
+2026-05-06 16:42:24,570 - INFO - ai-shopping - Pipeline started | query=educational toys, age=2, budget=2000, category=toys
+2026-05-06 16:42:24,570 - INFO - ai-shopping - Pipeline started | query=educational toys, age=2, budget=2000, category=toys
+2026-05-06 16:42:24,571 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-06 16:42:24,571 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-06 16:42:24,571 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=toys
+2026-05-06 16:42:24,573 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:42:24,573 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:42:24,573 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:42:24,573 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:42:24,573 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:42:24,573 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:42:24,574 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-06 16:42:24,574 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-06 16:42:24,574 - INFO - ai-shopping - Age filter: 3 -> 3
+2026-05-06 16:42:24,574 - INFO - ai-shopping - Final filtered count: 3
+2026-05-06 16:42:24,574 - INFO - ai-shopping - Final filtered count: 3
+2026-05-06 16:42:24,574 - INFO - ai-shopping - Final filtered count: 3
+2026-05-06 16:42:24,574 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-06 16:42:24,574 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-06 16:42:24,574 - INFO - ai-shopping - Retrieval started on 3 products
+2026-05-06 16:42:24,624 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:42:24,624 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:42:24,624 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:42:24,624 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-06 16:42:24,624 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-06 16:42:24,624 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks']
+2026-05-06 16:42:56,242 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:42:56,242 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:42:56,242 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:43:19,534 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:19,534 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:19,534 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:19,535 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:19,535 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:19,535 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:19,535 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:19,535 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:19,535 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:19,535 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:19,535 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:19,535 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:19,536 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:19,536 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:19,536 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:19,536 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:19,536 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:19,536 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:19,536 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:19,536 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:19,536 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:22,095 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:22,095 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:22,095 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:22,096 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:22,096 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:22,096 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:22,097 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:22,097 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:22,097 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:22,097 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:22,097 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:22,097 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:22,098 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:22,098 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:22,098 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:22,098 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:22,098 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:22,098 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:22,099 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:22,099 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:22,099 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:24,031 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:24,031 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:24,031 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:24,032 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:24,032 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:24,032 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:24,032 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:24,032 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:24,032 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:24,034 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:24,034 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:24,034 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:24,035 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:24,035 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:24,035 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:24,036 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:24,036 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:24,036 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:24,038 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:24,038 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:24,038 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:24,627 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:24,627 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:24,627 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:24,628 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:24,628 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:24,628 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:24,630 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:24,630 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:24,630 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:24,630 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:24,630 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:24,630 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:24,631 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:24,631 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:24,631 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:24,632 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:24,632 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:24,632 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:24,632 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:24,632 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:24,632 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:24,839 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:24,839 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:24,839 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:24,840 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:24,840 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:24,840 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:24,841 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:24,841 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:24,841 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:24,842 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:24,842 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:24,842 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:24,843 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:24,843 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:24,843 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:24,843 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:24,843 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:24,843 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:24,843 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:24,843 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:24,843 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:25,076 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:25,076 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:25,076 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=8600, category=toys
+2026-05-06 16:43:25,076 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:25,076 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:25,076 - INFO - ai-shopping - Filtering started | age=5, budget=8600, category=toys
+2026-05-06 16:43:25,077 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:25,077 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:25,077 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:25,077 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:25,077 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:25,077 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:25,078 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:25,078 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:25,078 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:25,079 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:25,079 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:25,079 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:25,079 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:25,079 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:25,079 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:48,046 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=3300, category=toys
+2026-05-06 16:43:48,046 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=3300, category=toys
+2026-05-06 16:43:48,046 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=3300, category=toys
+2026-05-06 16:43:48,047 - INFO - ai-shopping - Filtering started | age=5, budget=3300, category=toys
+2026-05-06 16:43:48,047 - INFO - ai-shopping - Filtering started | age=5, budget=3300, category=toys
+2026-05-06 16:43:48,047 - INFO - ai-shopping - Filtering started | age=5, budget=3300, category=toys
+2026-05-06 16:43:48,048 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:48,048 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:48,048 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:48,048 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:48,048 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:48,048 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:48,049 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:48,049 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:48,049 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:48,049 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:48,049 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:48,049 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:48,049 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:48,049 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:48,049 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:51,600 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=2100, category=toys
+2026-05-06 16:43:51,600 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=2100, category=toys
+2026-05-06 16:43:51,600 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=2100, category=toys
+2026-05-06 16:43:51,600 - INFO - ai-shopping - Filtering started | age=5, budget=2100, category=toys
+2026-05-06 16:43:51,600 - INFO - ai-shopping - Filtering started | age=5, budget=2100, category=toys
+2026-05-06 16:43:51,600 - INFO - ai-shopping - Filtering started | age=5, budget=2100, category=toys
+2026-05-06 16:43:51,601 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:51,601 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:51,601 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:51,601 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:51,601 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:51,601 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:51,601 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:51,601 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:51,601 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:51,602 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:51,602 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:51,602 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:51,602 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:51,602 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:51,602 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:52,925 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=2100, category=toys
+2026-05-06 16:43:52,925 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=2100, category=toys
+2026-05-06 16:43:52,925 - INFO - ai-shopping - Pipeline started | query=educational toys, age=5, budget=2100, category=toys
+2026-05-06 16:43:52,925 - INFO - ai-shopping - Filtering started | age=5, budget=2100, category=toys
+2026-05-06 16:43:52,925 - INFO - ai-shopping - Filtering started | age=5, budget=2100, category=toys
+2026-05-06 16:43:52,925 - INFO - ai-shopping - Filtering started | age=5, budget=2100, category=toys
+2026-05-06 16:43:52,927 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:52,927 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:52,927 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:43:52,928 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:52,928 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:52,928 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:43:52,929 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:52,929 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:52,929 - INFO - ai-shopping - Age filter: 3 -> 0
+2026-05-06 16:43:52,930 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:52,930 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:52,930 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:43:52,931 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:52,931 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:43:52,931 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:44:51,404 - INFO - ai-shopping - Pipeline started | query=Set of BPA-free feeding bottles, age=2, budget=2100, category=None
+2026-05-06 16:44:51,404 - INFO - ai-shopping - Pipeline started | query=Set of BPA-free feeding bottles, age=2, budget=2100, category=None
+2026-05-06 16:44:51,404 - INFO - ai-shopping - Pipeline started | query=Set of BPA-free feeding bottles, age=2, budget=2100, category=None
+2026-05-06 16:44:51,405 - INFO - ai-shopping - Filtering started | age=2, budget=2100, category=None
+2026-05-06 16:44:51,405 - INFO - ai-shopping - Filtering started | age=2, budget=2100, category=None
+2026-05-06 16:44:51,405 - INFO - ai-shopping - Filtering started | age=2, budget=2100, category=None
+2026-05-06 16:44:51,406 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 16:44:51,406 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 16:44:51,406 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 16:44:51,406 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 16:44:51,406 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 16:44:51,406 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 16:44:51,407 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 16:44:51,407 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 16:44:51,407 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 16:44:51,407 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 16:44:51,407 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 16:44:51,407 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 16:44:51,652 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:44:51,652 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:44:51,652 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:44:51,652 - INFO - ai-shopping - Retrieved products: ['Baby Feeding Bottle Set', 'Fisher-Price Learning Walker', 'Soft Building Blocks', 'Wooden Shape Sorter']
+2026-05-06 16:44:51,652 - INFO - ai-shopping - Retrieved products: ['Baby Feeding Bottle Set', 'Fisher-Price Learning Walker', 'Soft Building Blocks', 'Wooden Shape Sorter']
+2026-05-06 16:44:51,652 - INFO - ai-shopping - Retrieved products: ['Baby Feeding Bottle Set', 'Fisher-Price Learning Walker', 'Soft Building Blocks', 'Wooden Shape Sorter']
+2026-05-06 16:45:10,638 - WARNING - ai-shopping - Validation failed, retrying...
+2026-05-06 16:45:10,638 - WARNING - ai-shopping - Validation failed, retrying...
+2026-05-06 16:45:10,638 - WARNING - ai-shopping - Validation failed, retrying...
+2026-05-06 16:45:26,220 - INFO - ai-shopping - LLM success on attempt 2
+2026-05-06 16:45:26,220 - INFO - ai-shopping - LLM success on attempt 2
+2026-05-06 16:45:26,220 - INFO - ai-shopping - LLM success on attempt 2
+2026-05-06 16:54:42,869 - INFO - ai-shopping - Pipeline started | query=bootle, age=2, budget=2000, category=feeding
+2026-05-06 16:54:42,869 - INFO - ai-shopping - Pipeline started | query=bootle, age=2, budget=2000, category=feeding
+2026-05-06 16:54:42,869 - INFO - ai-shopping - Pipeline started | query=bootle, age=2, budget=2000, category=feeding
+2026-05-06 16:54:42,870 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=feeding
+2026-05-06 16:54:42,870 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=feeding
+2026-05-06 16:54:42,870 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=feeding
+2026-05-06 16:54:42,870 - INFO - ai-shopping - Category filter: 5 -> 1
+2026-05-06 16:54:42,870 - INFO - ai-shopping - Category filter: 5 -> 1
+2026-05-06 16:54:42,870 - INFO - ai-shopping - Category filter: 5 -> 1
+2026-05-06 16:54:42,871 - INFO - ai-shopping - Budget filter: 1 -> 1
+2026-05-06 16:54:42,871 - INFO - ai-shopping - Budget filter: 1 -> 1
+2026-05-06 16:54:42,871 - INFO - ai-shopping - Budget filter: 1 -> 1
+2026-05-06 16:54:42,871 - INFO - ai-shopping - Age filter: 1 -> 1
+2026-05-06 16:54:42,871 - INFO - ai-shopping - Age filter: 1 -> 1
+2026-05-06 16:54:42,871 - INFO - ai-shopping - Age filter: 1 -> 1
+2026-05-06 16:54:42,872 - INFO - ai-shopping - Final filtered count: 1
+2026-05-06 16:54:42,872 - INFO - ai-shopping - Final filtered count: 1
+2026-05-06 16:54:42,872 - INFO - ai-shopping - Final filtered count: 1
+2026-05-06 16:54:42,873 - INFO - ai-shopping - Retrieval started on 1 products
+2026-05-06 16:54:42,873 - INFO - ai-shopping - Retrieval started on 1 products
+2026-05-06 16:54:42,873 - INFO - ai-shopping - Retrieval started on 1 products
+2026-05-06 16:54:42,922 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:54:42,922 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:54:42,922 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:54:42,922 - INFO - ai-shopping - Retrieved products: ['Baby Feeding Bottle Set']
+2026-05-06 16:54:42,922 - INFO - ai-shopping - Retrieved products: ['Baby Feeding Bottle Set']
+2026-05-06 16:54:42,922 - INFO - ai-shopping - Retrieved products: ['Baby Feeding Bottle Set']
+2026-05-06 16:55:04,009 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:55:04,009 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:55:04,009 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:55:25,053 - INFO - ai-shopping - Pipeline started | query=travel essentials, age=2, budget=2000, category=travel
+2026-05-06 16:55:25,053 - INFO - ai-shopping - Pipeline started | query=travel essentials, age=2, budget=2000, category=travel
+2026-05-06 16:55:25,053 - INFO - ai-shopping - Pipeline started | query=travel essentials, age=2, budget=2000, category=travel
+2026-05-06 16:55:25,054 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 16:55:25,054 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 16:55:25,054 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 16:55:25,055 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 16:55:25,055 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 16:55:25,055 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 16:55:25,055 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 16:55:25,055 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 16:55:25,055 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 16:55:25,055 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 16:55:25,055 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 16:55:25,055 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 16:55:25,055 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:55:25,055 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:55:25,055 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:55:25,055 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:55:25,055 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:55:25,055 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:55:32,155 - INFO - ai-shopping - Pipeline started | query=travel kit, age=2, budget=2000, category=travel
+2026-05-06 16:55:32,155 - INFO - ai-shopping - Pipeline started | query=travel kit, age=2, budget=2000, category=travel
+2026-05-06 16:55:32,155 - INFO - ai-shopping - Pipeline started | query=travel kit, age=2, budget=2000, category=travel
+2026-05-06 16:55:32,156 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 16:55:32,156 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 16:55:32,156 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 16:55:32,157 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 16:55:32,157 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 16:55:32,157 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 16:55:32,157 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 16:55:32,157 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 16:55:32,157 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 16:55:32,157 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 16:55:32,157 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 16:55:32,157 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 16:55:32,157 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:55:32,157 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:55:32,157 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:55:32,158 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:55:32,158 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:55:32,158 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:55:33,099 - INFO - ai-shopping - Pipeline started | query=travel kit, age=2, budget=2000, category=travel
+2026-05-06 16:55:33,099 - INFO - ai-shopping - Pipeline started | query=travel kit, age=2, budget=2000, category=travel
+2026-05-06 16:55:33,099 - INFO - ai-shopping - Pipeline started | query=travel kit, age=2, budget=2000, category=travel
+2026-05-06 16:55:33,100 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 16:55:33,100 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 16:55:33,100 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 16:55:33,101 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 16:55:33,101 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 16:55:33,101 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 16:55:33,102 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 16:55:33,102 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 16:55:33,102 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 16:55:33,104 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 16:55:33,104 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 16:55:33,104 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 16:55:33,104 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:55:33,104 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:55:33,104 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:55:33,104 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:55:33,104 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:55:33,104 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:55:33,327 - INFO - ai-shopping - Pipeline started | query=travel kit, age=2, budget=2000, category=travel
+2026-05-06 16:55:33,327 - INFO - ai-shopping - Pipeline started | query=travel kit, age=2, budget=2000, category=travel
+2026-05-06 16:55:33,327 - INFO - ai-shopping - Pipeline started | query=travel kit, age=2, budget=2000, category=travel
+2026-05-06 16:55:33,327 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 16:55:33,327 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 16:55:33,327 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 16:55:33,328 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 16:55:33,328 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 16:55:33,328 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 16:55:33,328 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 16:55:33,328 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 16:55:33,328 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 16:55:33,330 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 16:55:33,330 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 16:55:33,330 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 16:55:33,331 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:55:33,331 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:55:33,331 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 16:55:33,332 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:55:33,332 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:55:33,332 - WARNING - ai-shopping - No products after filtering
+2026-05-06 16:56:02,064 - INFO - ai-shopping - Pipeline started | query=Musical Toy, age=3, budget=2000, category=toys
+2026-05-06 16:56:02,064 - INFO - ai-shopping - Pipeline started | query=Musical Toy, age=3, budget=2000, category=toys
+2026-05-06 16:56:02,064 - INFO - ai-shopping - Pipeline started | query=Musical Toy, age=3, budget=2000, category=toys
+2026-05-06 16:56:02,064 - INFO - ai-shopping - Filtering started | age=3, budget=2000, category=toys
+2026-05-06 16:56:02,064 - INFO - ai-shopping - Filtering started | age=3, budget=2000, category=toys
+2026-05-06 16:56:02,064 - INFO - ai-shopping - Filtering started | age=3, budget=2000, category=toys
+2026-05-06 16:56:02,065 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:56:02,065 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:56:02,065 - INFO - ai-shopping - Category filter: 5 -> 3
+2026-05-06 16:56:02,065 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:56:02,065 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:56:02,065 - INFO - ai-shopping - Budget filter: 3 -> 3
+2026-05-06 16:56:02,066 - INFO - ai-shopping - Age filter: 3 -> 2
+2026-05-06 16:56:02,066 - INFO - ai-shopping - Age filter: 3 -> 2
+2026-05-06 16:56:02,066 - INFO - ai-shopping - Age filter: 3 -> 2
+2026-05-06 16:56:02,066 - INFO - ai-shopping - Final filtered count: 2
+2026-05-06 16:56:02,066 - INFO - ai-shopping - Final filtered count: 2
+2026-05-06 16:56:02,066 - INFO - ai-shopping - Final filtered count: 2
+2026-05-06 16:56:02,066 - INFO - ai-shopping - Retrieval started on 2 products
+2026-05-06 16:56:02,066 - INFO - ai-shopping - Retrieval started on 2 products
+2026-05-06 16:56:02,066 - INFO - ai-shopping - Retrieval started on 2 products
+2026-05-06 16:56:02,112 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:56:02,112 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:56:02,112 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:56:02,112 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker']
+2026-05-06 16:56:02,112 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker']
+2026-05-06 16:56:02,112 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker']
+2026-05-06 16:56:18,773 - ERROR - ai-shopping - LLM attempt failed: Expecting ',' delimiter: line 1 column 205 (char 204)
+2026-05-06 16:56:18,773 - ERROR - ai-shopping - LLM attempt failed: Expecting ',' delimiter: line 1 column 205 (char 204)
+2026-05-06 16:56:18,773 - ERROR - ai-shopping - LLM attempt failed: Expecting ',' delimiter: line 1 column 205 (char 204)
+2026-05-06 16:56:38,900 - INFO - ai-shopping - LLM success on attempt 2
+2026-05-06 16:56:38,900 - INFO - ai-shopping - LLM success on attempt 2
+2026-05-06 16:56:38,900 - INFO - ai-shopping - LLM success on attempt 2
+2026-05-06 16:57:06,718 - INFO - ai-shopping - Pipeline started | query=Musical Toy, age=2, budget=2000, category=None
+2026-05-06 16:57:06,718 - INFO - ai-shopping - Pipeline started | query=Musical Toy, age=2, budget=2000, category=None
+2026-05-06 16:57:06,718 - INFO - ai-shopping - Pipeline started | query=Musical Toy, age=2, budget=2000, category=None
+2026-05-06 16:57:06,719 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 16:57:06,719 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 16:57:06,719 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 16:57:06,720 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 16:57:06,720 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 16:57:06,720 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 16:57:06,720 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 16:57:06,720 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 16:57:06,720 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 16:57:06,720 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 16:57:06,720 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 16:57:06,720 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 16:57:06,721 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 16:57:06,721 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 16:57:06,721 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 16:57:06,793 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:57:06,793 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:57:06,793 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:57:06,793 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 16:57:06,793 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 16:57:06,793 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 16:57:32,050 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:57:32,050 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:57:32,050 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:57:47,105 - INFO - ai-shopping - Pipeline started | query=EDucational Toy, age=2, budget=2000, category=None
+2026-05-06 16:57:47,105 - INFO - ai-shopping - Pipeline started | query=EDucational Toy, age=2, budget=2000, category=None
+2026-05-06 16:57:47,105 - INFO - ai-shopping - Pipeline started | query=EDucational Toy, age=2, budget=2000, category=None
+2026-05-06 16:57:47,105 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 16:57:47,105 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 16:57:47,105 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 16:57:47,106 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 16:57:47,106 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 16:57:47,106 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 16:57:47,107 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 16:57:47,107 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 16:57:47,107 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 16:57:47,107 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 16:57:47,107 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 16:57:47,107 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 16:57:47,108 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 16:57:47,108 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 16:57:47,108 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 16:57:47,177 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:57:47,177 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:57:47,177 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:57:47,178 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 16:57:47,178 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 16:57:47,178 - INFO - ai-shopping - Retrieved products: ['Wooden Shape Sorter', 'Fisher-Price Learning Walker', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 16:58:55,076 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:58:55,076 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:58:55,076 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:59:27,148 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2500, category=None
+2026-05-06 16:59:27,148 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2500, category=None
+2026-05-06 16:59:27,148 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2500, category=None
+2026-05-06 16:59:27,149 - INFO - ai-shopping - Filtering started | age=2, budget=2500, category=None
+2026-05-06 16:59:27,149 - INFO - ai-shopping - Filtering started | age=2, budget=2500, category=None
+2026-05-06 16:59:27,149 - INFO - ai-shopping - Filtering started | age=2, budget=2500, category=None
+2026-05-06 16:59:27,149 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 16:59:27,149 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 16:59:27,149 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 16:59:27,150 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 16:59:27,150 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 16:59:27,150 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 16:59:27,151 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 16:59:27,151 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 16:59:27,151 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 16:59:27,151 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 16:59:27,151 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 16:59:27,151 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 16:59:27,207 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:59:27,207 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:59:27,207 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 16:59:27,207 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 16:59:27,207 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 16:59:27,207 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 16:59:48,878 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:59:48,878 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 16:59:48,878 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:02:30,687 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:02:30,687 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:02:30,687 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:02:30,687 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:02:30,688 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:02:30,688 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:02:30,688 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:02:30,688 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:02:30,688 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:02:30,688 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:02:30,688 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:02:30,688 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:02:30,689 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:02:30,689 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:02:30,689 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:02:30,689 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:02:30,690 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:02:30,690 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:02:30,690 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:02:30,690 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:02:30,690 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:02:30,690 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:02:30,690 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:02:30,690 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:02:30,765 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:02:30,765 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:02:30,765 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:02:30,765 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:02:30,765 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:02:30,765 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:02:30,765 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:02:30,765 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:02:44,267 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:02:44,267 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:02:44,267 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:02:44,267 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:04:42,374 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:04:42,374 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:04:42,374 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:04:42,374 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:04:42,374 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:04:42,375 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:04:42,375 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:04:42,375 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:04:42,375 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:04:42,375 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:04:42,376 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:04:42,376 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:04:42,376 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:04:42,376 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:04:42,376 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:04:42,377 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:04:42,377 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:04:42,377 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:04:42,377 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:04:42,377 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:04:42,377 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:04:42,377 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:04:42,377 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:04:42,377 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:04:42,377 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:04:42,377 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:04:42,377 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:04:42,377 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:04:42,377 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:04:42,377 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:04:42,439 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:04:42,439 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:04:42,439 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:04:42,439 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:04:42,439 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:04:42,439 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:04:42,439 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:04:42,439 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:04:42,439 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:04:42,439 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:04:56,521 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:04:56,521 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:04:56,521 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:04:56,521 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:04:56,521 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:05:36,372 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=travel
+2026-05-06 17:05:36,372 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=travel
+2026-05-06 17:05:36,372 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=travel
+2026-05-06 17:05:36,372 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=travel
+2026-05-06 17:05:36,372 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=travel
+2026-05-06 17:05:36,373 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 17:05:36,373 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 17:05:36,373 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 17:05:36,373 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 17:05:36,373 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 17:05:36,375 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:05:36,375 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:05:36,375 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:05:36,375 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:05:36,375 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:05:36,375 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:05:36,375 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:05:36,375 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:05:36,375 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:05:36,375 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:05:36,376 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:05:36,376 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:05:36,376 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:05:36,376 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:05:36,376 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:05:36,376 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:05:36,376 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:05:36,376 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:05:36,376 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:05:36,376 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:05:36,377 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:05:36,377 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:05:36,377 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:05:36,377 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:05:36,377 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:05:37,825 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=travel
+2026-05-06 17:05:37,825 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=travel
+2026-05-06 17:05:37,825 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=travel
+2026-05-06 17:05:37,825 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=travel
+2026-05-06 17:05:37,825 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=travel
+2026-05-06 17:05:37,825 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 17:05:37,825 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 17:05:37,825 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 17:05:37,825 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 17:05:37,825 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=travel
+2026-05-06 17:05:37,826 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:05:37,826 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:05:37,826 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:05:37,826 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:05:37,826 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:05:37,827 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:05:37,827 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:05:37,827 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:05:37,827 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:05:37,827 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:05:37,828 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:05:37,828 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:05:37,828 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:05:37,828 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:05:37,828 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:05:37,829 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:05:37,829 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:05:37,829 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:05:37,829 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:05:37,829 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:05:37,830 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:05:37,830 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:05:37,830 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:05:37,830 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:05:37,830 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:05:40,370 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=3, budget=2000, category=travel
+2026-05-06 17:05:40,370 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=3, budget=2000, category=travel
+2026-05-06 17:05:40,370 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=3, budget=2000, category=travel
+2026-05-06 17:05:40,370 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=3, budget=2000, category=travel
+2026-05-06 17:05:40,370 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=3, budget=2000, category=travel
+2026-05-06 17:05:40,371 - INFO - ai-shopping - Filtering started | age=3, budget=2000, category=travel
+2026-05-06 17:05:40,371 - INFO - ai-shopping - Filtering started | age=3, budget=2000, category=travel
+2026-05-06 17:05:40,371 - INFO - ai-shopping - Filtering started | age=3, budget=2000, category=travel
+2026-05-06 17:05:40,371 - INFO - ai-shopping - Filtering started | age=3, budget=2000, category=travel
+2026-05-06 17:05:40,371 - INFO - ai-shopping - Filtering started | age=3, budget=2000, category=travel
+2026-05-06 17:05:40,372 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:05:40,372 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:05:40,372 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:05:40,372 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:05:40,372 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:05:40,374 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:05:40,374 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:05:40,374 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:05:40,374 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:05:40,374 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:05:40,375 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:05:40,375 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:05:40,375 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:05:40,375 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:05:40,375 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:05:40,375 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:05:40,375 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:05:40,375 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:05:40,375 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:05:40,375 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:05:40,375 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:05:40,375 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:05:40,375 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:05:40,375 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:05:40,375 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:18,026 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:18,026 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:18,026 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:18,026 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:18,026 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:18,027 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:18,027 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:18,027 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:18,027 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:18,027 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:18,028 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:18,028 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:18,028 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:18,028 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:18,028 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:18,029 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:18,029 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:18,029 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:18,029 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:18,029 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:18,030 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:18,030 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:18,030 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:18,030 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:18,030 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:18,030 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:18,030 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:18,030 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:18,030 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:18,030 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:18,030 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:18,030 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:18,030 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:18,030 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:18,030 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:19,357 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:19,357 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:19,357 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:19,357 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:19,357 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:19,359 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:19,359 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:19,359 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:19,359 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:19,359 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:19,362 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:19,362 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:19,362 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:19,362 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:19,362 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:19,362 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:19,362 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:19,362 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:19,362 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:19,362 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:19,362 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:19,362 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:19,362 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:19,362 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:19,362 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:19,363 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:19,363 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:19,363 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:19,363 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:19,363 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:19,363 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:19,363 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:19,363 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:19,363 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:19,363 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:19,599 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:19,599 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:19,599 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:19,599 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:19,599 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:19,601 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:19,601 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:19,601 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:19,601 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:19,601 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:19,603 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:19,603 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:19,603 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:19,603 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:19,603 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:19,604 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:19,604 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:19,604 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:19,604 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:19,604 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:19,604 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:19,604 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:19,604 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:19,604 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:19,604 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:19,604 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:19,604 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:19,604 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:19,604 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:19,604 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:19,605 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:19,605 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:19,605 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:19,605 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:19,605 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:19,813 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:19,813 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:19,813 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:19,813 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:19,813 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=5, budget=10000, category=travel
+2026-05-06 17:06:19,815 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:19,815 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:19,815 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:19,815 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:19,815 - INFO - ai-shopping - Filtering started | age=5, budget=10000, category=travel
+2026-05-06 17:06:19,817 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:19,817 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:19,817 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:19,817 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:19,817 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:06:19,818 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:19,818 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:19,818 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:19,818 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:19,818 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:06:19,818 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:19,818 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:19,818 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:19,818 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:19,818 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:06:19,818 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:19,818 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:19,818 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:19,818 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:19,818 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:06:19,818 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:19,818 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:19,818 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:19,818 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:06:19,818 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:08:32,746 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=1, budget=10000, category=travel
+2026-05-06 17:08:32,746 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=1, budget=10000, category=travel
+2026-05-06 17:08:32,746 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=1, budget=10000, category=travel
+2026-05-06 17:08:32,746 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=1, budget=10000, category=travel
+2026-05-06 17:08:32,746 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=1, budget=10000, category=travel
+2026-05-06 17:08:32,746 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=1, budget=10000, category=travel
+2026-05-06 17:08:32,747 - INFO - ai-shopping - Filtering started | age=1, budget=10000, category=travel
+2026-05-06 17:08:32,747 - INFO - ai-shopping - Filtering started | age=1, budget=10000, category=travel
+2026-05-06 17:08:32,747 - INFO - ai-shopping - Filtering started | age=1, budget=10000, category=travel
+2026-05-06 17:08:32,747 - INFO - ai-shopping - Filtering started | age=1, budget=10000, category=travel
+2026-05-06 17:08:32,747 - INFO - ai-shopping - Filtering started | age=1, budget=10000, category=travel
+2026-05-06 17:08:32,747 - INFO - ai-shopping - Filtering started | age=1, budget=10000, category=travel
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:08:32,749 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:08:32,750 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:08:32,750 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:08:32,750 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:08:32,750 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:08:32,750 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:08:32,750 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:08:32,750 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:08:32,750 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:08:32,750 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:08:32,750 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:08:32,750 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:08:32,750 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:08:34,815 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=1, budget=10000, category=travel
+2026-05-06 17:08:34,815 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=1, budget=10000, category=travel
+2026-05-06 17:08:34,815 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=1, budget=10000, category=travel
+2026-05-06 17:08:34,815 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=1, budget=10000, category=travel
+2026-05-06 17:08:34,815 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=1, budget=10000, category=travel
+2026-05-06 17:08:34,815 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=1, budget=10000, category=travel
+2026-05-06 17:08:34,817 - INFO - ai-shopping - Filtering started | age=1, budget=10000, category=travel
+2026-05-06 17:08:34,817 - INFO - ai-shopping - Filtering started | age=1, budget=10000, category=travel
+2026-05-06 17:08:34,817 - INFO - ai-shopping - Filtering started | age=1, budget=10000, category=travel
+2026-05-06 17:08:34,817 - INFO - ai-shopping - Filtering started | age=1, budget=10000, category=travel
+2026-05-06 17:08:34,817 - INFO - ai-shopping - Filtering started | age=1, budget=10000, category=travel
+2026-05-06 17:08:34,817 - INFO - ai-shopping - Filtering started | age=1, budget=10000, category=travel
+2026-05-06 17:08:34,818 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:08:34,818 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:08:34,818 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:08:34,818 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:08:34,818 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:08:34,818 - INFO - ai-shopping - Category filter: 5 -> 0
+2026-05-06 17:08:34,819 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:08:34,819 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:08:34,819 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:08:34,819 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:08:34,819 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:08:34,819 - INFO - ai-shopping - Budget filter: 0 -> 0
+2026-05-06 17:08:34,819 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:08:34,819 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:08:34,819 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:08:34,819 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:08:34,819 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:08:34,819 - INFO - ai-shopping - Age filter: 0 -> 0
+2026-05-06 17:08:34,820 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:08:34,820 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:08:34,820 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:08:34,820 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:08:34,820 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:08:34,820 - INFO - ai-shopping - Final filtered count: 0
+2026-05-06 17:08:34,820 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:08:34,820 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:08:34,820 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:08:34,820 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:08:34,820 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:08:34,820 - WARNING - ai-shopping - No products after filtering
+2026-05-06 17:18:22,427 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:18:22,427 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:18:22,427 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:18:22,427 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:18:22,427 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:18:22,427 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:18:22,427 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:18:22,429 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:18:22,429 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:18:22,429 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:18:22,429 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:18:22,429 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:18:22,429 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:18:22,429 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:18:22,430 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:18:22,430 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:18:22,430 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:18:22,430 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:18:22,430 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:18:22,430 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:18:22,430 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:18:22,431 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:18:22,431 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:18:22,431 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:18:22,431 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:18:22,431 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:18:22,431 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:18:22,431 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:18:22,431 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:18:22,431 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:18:22,431 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:18:22,431 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:18:22,431 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:18:22,431 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:18:22,431 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:18:22,433 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:18:22,433 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:18:22,433 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:18:22,433 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:18:22,433 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:18:22,433 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:18:22,433 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:18:22,499 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:18:22,499 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:18:22,499 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:18:22,499 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:18:22,499 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:18:22,499 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:18:22,499 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:18:22,500 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:18:22,500 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:18:22,500 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:18:22,500 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:18:22,500 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:18:22,500 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:18:22,500 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:18:51,917 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:18:51,917 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:18:51,917 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:18:51,917 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:18:51,917 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:18:51,917 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:18:51,917 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:23:35,979 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:23:35,979 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:23:35,979 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:23:35,979 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:23:35,979 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:23:35,979 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:23:35,979 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:23:35,979 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:23:35,981 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:23:35,981 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:23:35,981 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:23:35,981 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:23:35,981 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:23:35,981 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:23:35,981 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:23:35,981 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:23:35,982 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:23:35,982 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:23:35,982 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:23:35,982 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:23:35,982 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:23:35,982 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:23:35,982 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:23:35,982 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:23:35,983 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:23:35,984 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:23:35,984 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:23:35,984 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:23:35,984 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:23:35,984 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:23:35,984 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:23:35,984 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:23:35,984 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:23:36,069 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:23:36,069 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:23:36,069 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:23:36,069 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:23:36,069 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:23:36,069 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:23:36,069 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:23:36,069 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:23:36,070 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:23:36,070 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:23:36,070 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:23:36,070 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:23:36,070 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:23:36,070 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:23:36,070 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:23:36,070 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:23:49,455 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:23:49,455 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:23:49,455 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:23:49,455 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:23:49,455 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:23:49,455 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:23:49,455 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:23:49,455 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:28:01,798 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:28:01,798 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:28:01,798 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:28:01,798 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:28:01,798 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:28:01,798 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:28:01,798 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:28:01,798 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:28:01,798 - INFO - ai-shopping - Pipeline started | query=Travel Organizer, age=2, budget=2000, category=None
+2026-05-06 17:28:01,800 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:28:01,800 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:28:01,800 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:28:01,800 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:28:01,800 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:28:01,800 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:28:01,800 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:28:01,800 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:28:01,800 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:28:01,801 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:28:01,801 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:28:01,801 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:28:01,801 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:28:01,801 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:28:01,801 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:28:01,801 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:28:01,801 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:28:01,801 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:28:01,802 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:28:01,865 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:28:01,865 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:28:01,865 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:28:01,865 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:28:01,865 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:28:01,865 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:28:01,865 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:28:01,865 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:28:01,865 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:28:01,866 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:28:01,866 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:28:01,866 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:28:01,866 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:28:01,866 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:28:01,866 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:28:01,866 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:28:01,866 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:28:01,866 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:28:15,784 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:28:15,784 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:28:15,784 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:28:15,784 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:28:15,784 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:28:15,784 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:28:15,784 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:28:15,784 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:28:15,784 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:38:27,043 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:38:27,053 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:44:13,014 - INFO - ai-shopping - Pipeline started | query=travel organizer, age=2, budget=2000, category=None
+2026-05-06 17:44:13,014 - INFO - ai-shopping - Pipeline started | query=travel organizer, age=2, budget=2000, category=None
+2026-05-06 17:44:13,014 - INFO - ai-shopping - Pipeline started | query=travel organizer, age=2, budget=2000, category=None
+2026-05-06 17:44:13,014 - INFO - ai-shopping - Pipeline started | query=travel organizer, age=2, budget=2000, category=None
+2026-05-06 17:44:13,014 - INFO - ai-shopping - Pipeline started | query=travel organizer, age=2, budget=2000, category=None
+2026-05-06 17:44:13,014 - INFO - ai-shopping - Pipeline started | query=travel organizer, age=2, budget=2000, category=None
+2026-05-06 17:44:13,014 - INFO - ai-shopping - Pipeline started | query=travel organizer, age=2, budget=2000, category=None
+2026-05-06 17:44:13,014 - INFO - ai-shopping - Pipeline started | query=travel organizer, age=2, budget=2000, category=None
+2026-05-06 17:44:13,014 - INFO - ai-shopping - Pipeline started | query=travel organizer, age=2, budget=2000, category=None
+2026-05-06 17:44:13,014 - INFO - ai-shopping - Pipeline started | query=travel organizer, age=2, budget=2000, category=None
+2026-05-06 17:44:13,016 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:44:13,016 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:44:13,016 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:44:13,016 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:44:13,016 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:44:13,016 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:44:13,016 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:44:13,016 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:44:13,016 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:44:13,016 - INFO - ai-shopping - Filtering started | age=2, budget=2000, category=None
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Budget filter: 5 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Age filter: 4 -> 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Final filtered count: 4
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:44:13,017 - INFO - ai-shopping - Retrieval started on 4 products
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Top-5 retrieved
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:44:13,080 - INFO - ai-shopping - Retrieved products: ['Fisher-Price Learning Walker', 'Wooden Shape Sorter', 'Soft Building Blocks', 'Baby Feeding Bottle Set']
+2026-05-06 17:44:42,258 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:44:42,258 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:44:42,258 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:44:42,258 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:44:42,258 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:44:42,258 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:44:42,258 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:44:42,258 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:44:42,258 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:44:42,258 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 17:48:45,980 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:48:45,980 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:48:45,980 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:48:45,980 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:48:45,980 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:48:45,980 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:48:45,980 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:48:45,980 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:48:45,980 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:48:45,980 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:48:45,980 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:48:46,002 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:48:46,002 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:48:46,002 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:48:46,002 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:48:46,002 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:48:46,002 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:48:46,002 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:48:46,002 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:48:46,002 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:48:46,002 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:48:46,002 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:51:59,135 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:51:59,135 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:51:59,135 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:51:59,135 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:51:59,135 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:51:59,135 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:51:59,135 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:51:59,135 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:51:59,135 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:51:59,135 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:51:59,135 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:51:59,141 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:51:59,141 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:51:59,141 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:51:59,141 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:51:59,141 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:51:59,141 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:51:59,141 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:51:59,141 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:51:59,141 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:51:59,141 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:51:59,141 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:59:20,882 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:59:20,882 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:59:20,882 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:59:20,882 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:59:20,882 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:59:20,882 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:59:20,882 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:59:20,882 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:59:20,882 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:59:20,882 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:59:20,882 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:59:20,882 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 17:59:20,889 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:59:20,889 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:59:20,889 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:59:20,889 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:59:20,889 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:59:20,889 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:59:20,889 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:59:20,889 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:59:20,889 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:59:20,889 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:59:20,889 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 17:59:20,889 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:00:34,796 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:00:34,796 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:00:34,796 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:00:34,796 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:00:34,796 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:00:34,796 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:00:34,796 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:00:34,796 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:00:34,796 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:00:34,796 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:00:34,796 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:00:34,796 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:00:34,805 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:00:34,805 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:00:34,805 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:00:34,805 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:00:34,805 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:00:34,805 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:00:34,805 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:00:34,805 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:00:34,805 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:00:34,805 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:00:34,805 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:00:34,805 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:15:36,838 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:15:36,842 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:16:17,357 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:16:17,360 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:16:23,178 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:16:23,183 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:16:23,940 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:16:23,944 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:16:30,325 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:16:30,329 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:16:44,011 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:16:44,014 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:16:47,929 - INFO - ai-shopping - Pipeline started | query=Bottle Warmer | age=3 | budget=2400 | category=feeding
+2026-05-06 18:16:48,885 - ERROR - ai-shopping - LLM generation failed: Extra data: line 1 column 154 (char 153)
+2026-05-06 18:16:49,546 - ERROR - ai-shopping - LLM generation failed: Extra data: line 1 column 154 (char 153)
+2026-05-06 18:16:50,247 - ERROR - ai-shopping - LLM generation failed: Extra data: line 1 column 154 (char 153)
+2026-05-06 18:22:20,853 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:22:20,856 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:22:47,455 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:22:47,459 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:22:55,907 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:22:55,908 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:22:57,025 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:22:57,028 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:23:02,122 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:23:02,124 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:23:03,491 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:23:03,494 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:23:09,676 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:23:09,679 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:23:13,557 - INFO - ai-shopping - Pipeline started | query=Bottle Warmer | age=3 | budget=3500 | category=feeding
+2026-05-06 18:23:14,142 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 18:34:10,497 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:34:10,522 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:34:52,658 - INFO - ai-shopping - Pipeline started | query=Bottle Warmer | age=3 | budget=3100 | category=feeding
+2026-05-06 18:34:53,704 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 18:35:33,937 - INFO - ai-shopping - Pipeline started | query=building Blocks | age=1 | budget=3100 | category=toys
+2026-05-06 18:35:34,407 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 18:41:02,938 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:41:02,945 - INFO - ai-shopping - Loaded 200 valid products
+2026-05-06 18:41:36,842 - INFO - ai-shopping - Pipeline started | query=building Blocks | age=2 | budget=2500 | category=toys
+2026-05-06 18:41:37,621 - INFO - ai-shopping - LLM success on attempt 1
+2026-05-06 18:44:22,214 - INFO - ai-shopping - Loading products from data/products.json
+2026-05-06 18:44:22,218 - INFO - ai-shopping - Loaded 200 valid products
