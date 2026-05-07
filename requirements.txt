@@ -14,3 +14,4 @@ pandas
 faker
 
 torch
+torchvision
